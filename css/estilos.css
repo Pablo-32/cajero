@@ -1,0 +1,37 @@
+body { 
+    background: linear-gradient(to right, red, orange, yellow, green, blue); 
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #d60707;
+    font-size: 50px;
+    background: black;
+    border-radius: 15px;
+}
+
+img {
+    display: flex;
+    margin: auto;
+}
+
+#dinero {
+    display: flex;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#extraer {
+    display: flex;
+    margin: auto;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+#resultado {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
